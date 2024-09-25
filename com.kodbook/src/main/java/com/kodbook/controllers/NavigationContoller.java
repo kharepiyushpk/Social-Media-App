@@ -21,4 +21,5 @@ public class NavigationContoller {
 	public String createPost() {
 		return "post";
 	}
+	
 }
